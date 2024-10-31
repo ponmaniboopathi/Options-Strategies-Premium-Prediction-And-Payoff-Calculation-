@@ -1,0 +1,2 @@
+# Options-Strategies-Premium-Prediction-And-Payoff-Calculation-
+This repository contains a data-driven project focused on options trading, specifically targeting the prediction of option premiums and the calculation of payoff for different strategies. Using a Random Forest model, the project aims to provide insights into premium pricing and simulate potential profits or losses for selected strategies.
